@@ -27,3 +27,8 @@ samples, guidance on mobile development, and a full API reference.
    <img src="https://github.com/user-attachments/assets/00ed2984-f7c8-4023-b20e-f6c287eaead7" width="300px">
    <img src="https://github.com/user-attachments/assets/11a0b4aa-8f1f-4aa2-afc9-7b3d86f1ee3d" width="300px">
    <img src="https://github.com/user-attachments/assets/d1af0ee5-a212-45e1-84ac-11e659efb8c7" width="300px">
+   
+## Video Demonstration
+
+Check out this video demonstration of the application: [Watch the video](https://github.com/user-attachments/assets/aee533f4-1d74-413f-8609-09f57cddbeae)
+   
